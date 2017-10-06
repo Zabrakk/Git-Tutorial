@@ -60,3 +60,6 @@ for f in functions:
         globals()['test_'+f]()
     else:
         print "*", f, "IS NOT DEFINED"
+def somethingggggg()
+	nananananananann
+	batman
