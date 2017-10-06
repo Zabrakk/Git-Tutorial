@@ -44,3 +44,4 @@ def geometric(a, ratio, n):
     return a*(1-ratio**n)/(1-ratio)
 
 
+
