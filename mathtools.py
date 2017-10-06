@@ -42,6 +42,8 @@ def geometric(a, ratio, n):
 
     #Use the sum formula:
     return a*(1-ratio**n)/(1-ratio)
-
+def jeaad():
+sfuusdhgsdilhfk
+dfisrd
 
 
